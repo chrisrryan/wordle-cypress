@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://www.nytimes.com/games/wordle",
+  "includeShadowDom": true,
+  "retries": {
+    "runMode": 1,
+    "openMode": 1
+  },
+  "viewportWidth": 600,
+  "viewportHeight": 660
+}
